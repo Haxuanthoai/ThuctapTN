@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCoreMVC\\Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dev\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:10:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T14:58:16.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAACgBAAAAAAAAAADwv0MBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T14:57:32.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwv6wAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T14:57:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T14:56:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv1gAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T14:55:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:54:55.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

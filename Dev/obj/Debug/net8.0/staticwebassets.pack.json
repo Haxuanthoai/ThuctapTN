@@ -1,0 +1,1361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dev.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\DOITAC.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\DOITAC.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\LIENHE.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\LIENHE.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner.html",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner.html"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\01.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\01.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\02.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\02.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\05.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\05.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\06.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\06.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\all.min.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\all.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bao-hanh.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\bootstrap.bundle.min.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bootstrap.bundle.min.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chat-luong.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chatluong.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chinh-sach.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ghe.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ghe.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\jquery.slim.min.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\jquery.slim.min.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\logo.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\main.1c2a357f.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\main.1c2a357f.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\main.a567d279.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\main.a567d279.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\marvella.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\marvella.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\melissa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\melissa.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\san-pham.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\sheraton.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\sheraton.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\slick.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\slick.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\style.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\style.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\uicons-bold-straight.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\uicons-bold-straight.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\banner_files\\vinpearl.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bao-hanh.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\bg-about-us.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bg-about-us.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\bgr.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bgr.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chat-luong.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chatluong.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chinh-sach.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ghe.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ghe.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\logo.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\logo3.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\logo3.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\marvella.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\marvella.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\san-pham.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\sheraton (1).png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sheraton (1).png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\sheraton.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sheraton.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\sp2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sp2.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh1.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh2.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh3.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh4.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\tamnhin.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\tamnhin.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\thanhlap.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\thanhlap.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\trai-nghiem1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\trai-nghiem1.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\anhcat\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\news\\01.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\01.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\news\\02.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\02.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\news\\05.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\05.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\news\\06.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\06.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\cau-thang\\019.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\cau-thang\\019.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\do-trang-tri\\020.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\do-trang-tri\\020.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-bep\\004.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-bep\\004.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-bep\\009.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-bep\\009.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001a.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001a.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001b.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001b.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001c.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001c.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001d.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001d.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\001e.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001e.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\002.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\002.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\008.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\008.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\009.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\009.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\011.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\011.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\012.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\012.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\014.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\014.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-khach\\015.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\015.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-ngu\\003.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\003.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-ngu\\004.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\004.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-ngu\\007.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\007.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-ngu\\013.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\013.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-tam\\005.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\005.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-tam\\006.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\006.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-tam\\007.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\007.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\phong-tam\\008.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\008.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\tre-em\\016.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\016.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\tre-em\\017.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\017.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\tre-em\\018.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\018.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\products\\van-phong\\018 (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\van-phong\\018 (1).jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-1.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-2.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-2.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-3.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-4.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-5.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-5.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\Images\\tin-tuc\\tintuc-6.png",
+      "PackagePath": "staticwebassets\\Images\\tin-tuc\\tintuc-6.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\logologin.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logologin.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\124369155",
+      "PackagePath": "staticwebassets\\plugins"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-b0b4fd6f86a5.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-b0b4fd6f86a5.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c89801ebbe15.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c89801ebbe15.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-1f593176c92a.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-1f593176c92a.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-87c39cb5708f.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-87c39cb5708f.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_ref-selector_ts-043af64042a1.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_ref-selector_ts-043af64042a1.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\app_assets_modules_github_sticky-scroll-into-view_ts-ui_packages_onfocus_onfocus_ts-346d240435ec.js.download",
+      "PackagePath": "staticwebassets\\plugins\\app_assets_modules_github_sticky-scroll-into-view_ts-ui_packages_onfocus_onfocus_ts-346d240435ec.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\behaviors-ea9a2e4beeb6.js.download",
+      "PackagePath": "staticwebassets\\plugins\\behaviors-ea9a2e4beeb6.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\code-53e56f0305ac.css",
+      "PackagePath": "staticwebassets\\plugins\\code-53e56f0305ac.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\code-menu-3118a76a2829.js.download",
+      "PackagePath": "staticwebassets\\plugins\\code-menu-3118a76a2829.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\codespaces-1eb1236f159c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\codespaces-1eb1236f159c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\element-registry-6782082e77a2.js.download",
+      "PackagePath": "staticwebassets\\plugins\\element-registry-6782082e77a2.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\environment-cd35650c2e9c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\environment-cd35650c2e9c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\github-d3b66f11d613.css",
+      "PackagePath": "staticwebassets\\plugins\\github-d3b66f11d613.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\github-elements-cb7d8b621a49.js.download",
+      "PackagePath": "staticwebassets\\plugins\\github-elements-cb7d8b621a49.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\global-e41ff91f8baa.css",
+      "PackagePath": "staticwebassets\\plugins\\global-e41ff91f8baa.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\keyboard-shortcuts-dialog-ed30662f9578.js.download",
+      "PackagePath": "staticwebassets\\plugins\\keyboard-shortcuts-dialog-ed30662f9578.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\light-3e154969b9f9.css",
+      "PackagePath": "staticwebassets\\plugins\\light-3e154969b9f9.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\notifications-global-3366f6b6298e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\notifications-global-3366f6b6298e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\notifications-subscriptions-menu-1490f5bef85d.js.download",
+      "PackagePath": "staticwebassets\\plugins\\notifications-subscriptions-menu-1490f5bef85d.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\notifications-subscriptions-menu.1bcff9205c241e99cff2.module.css",
+      "PackagePath": "staticwebassets\\plugins\\notifications-subscriptions-menu.1bcff9205c241e99cff2.module.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\octicons-react-45c3a19dd792.js.download",
+      "PackagePath": "staticwebassets\\plugins\\octicons-react-45c3a19dd792.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\primer-0a1f715ee9fb.css",
+      "PackagePath": "staticwebassets\\plugins\\primer-0a1f715ee9fb.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\primer-primitives-4cf0d59ab51a.css",
+      "PackagePath": "staticwebassets\\plugins\\primer-primitives-4cf0d59ab51a.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\primer-react-765944243383.js.download",
+      "PackagePath": "staticwebassets\\plugins\\primer-react-765944243383.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\primer-react.9fa170e9435ed4b922b9.module.css",
+      "PackagePath": "staticwebassets\\plugins\\primer-react.9fa170e9435ed4b922b9.module.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\react-code-view-2944fab06c8e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\react-code-view-2944fab06c8e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\react-code-view.6b587a69b593e23c3657.module.css",
+      "PackagePath": "staticwebassets\\plugins\\react-code-view.6b587a69b593e23c3657.module.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\react-core-cd0a67881543.js.download",
+      "PackagePath": "staticwebassets\\plugins\\react-core-cd0a67881543.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\repositories-ac118cd54ac9.js.download",
+      "PackagePath": "staticwebassets\\plugins\\repositories-ac118cd54ac9.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\repository-1e3bbbee6b91.css",
+      "PackagePath": "staticwebassets\\plugins\\repository-1e3bbbee6b91.css"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\sessions-8fa3b694f335.js.download",
+      "PackagePath": "staticwebassets\\plugins\\sessions-8fa3b694f335.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_aria-live_aria-live_ts-ui_packages_promise-with-resolvers-polyfill_promise-with-r-014121-e1792bd5a31e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_aria-live_aria-live_ts-ui_packages_promise-with-resolvers-polyfill_promise-with-r-014121-e1792bd5a31e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_utili-228da6-8d547055011b.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_utili-228da6-8d547055011b.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_comp-1beb66-cb9d078d176c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_comp-1beb66-cb9d078d176c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-7fe572-0d8f4a2976ee.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-7fe572-0d8f4a2976ee.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_failbot_failbot_ts-a46544e9ee5e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_failbot_failbot_ts-a46544e9ee5e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_hydro-analytics_hydro-analytics_ts-ui_packages_verified-fetch_verified-fetch_ts-u-4672d1-b9813979de97.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_hydro-analytics_hydro-analytics_ts-ui_packages_verified-fetch_verified-fetch_ts-u-4672d1-b9813979de97.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_paths_index_ts-193243317670.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_paths_index_ts-193243317670.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_ref-selector_RefSelector_tsx-7a75d9f22fe9.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_ref-selector_RefSelector_tsx-7a75d9f22fe9.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_sudo_sudo_ts-4882d48f7244.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_sudo_sudo_ts-4882d48f7244.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_ui-commands_ui-commands_ts-d25fac54a6bc.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_ui-commands_ui-commands_ts-d25fac54a6bc.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\ui_packages_updatable-content_updatable-content_ts-a56a72f0fec9.js.download",
+      "PackagePath": "staticwebassets\\plugins\\ui_packages_updatable-content_updatable-content_ts-a56a72f0fec9.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-634de60bacfa.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-634de60bacfa.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_dompurify_dist_purify_js-b73fdff77a4e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_dompurify_dist_purify_js-b73fdff77a4e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-62da9f-54c0c921f04b.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-62da9f-54c0c921f04b.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-247092-7885b472fa6d.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-247092-7885b472fa6d.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-6afc16-3cdfa69a0406.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-6afc16-3cdfa69a0406.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_combobox-nav_dist_index_js-node_modules_github_g-emoji-element_di-6ce195-53781cbc550f.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_combobox-nav_dist_index_js-node_modules_github_g-emoji-element_di-6ce195-53781cbc550f.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_remote--680e8b-0227aac5a3de.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_remote--680e8b-0227aac5a3de.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-7671f1-c88c68d8249d.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-7671f1-c88c68d8249d.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-64905f-81ebb9be14ce.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-64905f-81ebb9be14ce.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1a841-8f251a0656e7.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1a841-8f251a0656e7.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-9002b0-8e5e346f0cbe.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-9002b0-8e5e346f0cbe.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-e6893db9c19e.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-e6893db9c19e.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_delegated-events_di-e161aa-c2a0ad78c9c9.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_delegated-events_di-e161aa-c2a0ad78c9c9.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-9b97703a4e6a.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-9b97703a4e6a.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1f651a-1e3d784c897c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1f651a-1e3d784c897c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-e7dcdd-074052b7d26b.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-e7dcdd-074052b7d26b.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_relative-time-element_dist_index_js-6d3967acd51c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_relative-time-element_dist_index_js-6d3967acd51c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-cf3dd69d89eb.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-cf3dd69d89eb.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-e53a3f-8346b142672c.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-e53a3f-8346b142672c.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_github_text-expander-element_dist_index_js-f5498b8d4e5d.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_github_text-expander-element_dist_index_js-f5498b8d4e5d.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-4896ddd4b7bb.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-4896ddd4b7bb.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-aff936e590ed.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-aff936e590ed.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_primer_behaviors_dist_esm_index_mjs-4aa4b0e95669.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_primer_behaviors_dist_esm_index_mjs-4aa4b0e95669.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_stacktrace-pa-a71630-6f3c4f0189d8.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_stacktrace-pa-a71630-6f3c4f0189d8.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-96453a51f920.js.download",
+      "PackagePath": "staticwebassets\\plugins\\vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-96453a51f920.js.download"
+    },
+    {
+      "Id": "D:\\NetCoreMVC\\Dev\\Dev\\wwwroot\\plugins\\wp-runtime-dc4265984d10.js.download",
+      "PackagePath": "staticwebassets\\plugins\\wp-runtime-dc4265984d10.js.download"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dev.props",
+      "PackagePath": "build\\Dev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dev.props",
+      "PackagePath": "buildMultiTargeting\\Dev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dev.props",
+      "PackagePath": "buildTransitive\\Dev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
